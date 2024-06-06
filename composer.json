@@ -1,0 +1,16 @@
+{
+    "name": "dinhpdpd09993/lab678",
+    "description": "lab",
+    "authors": [
+        {
+            "name": "Dwcks Dinh",
+            "email": "corclan19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework_Tu_Code\\":"Framework_Tu_Code/",
+            "App\\": "App/"
+        }
+    }
+}
